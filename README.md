@@ -1,3 +1,6 @@
+股票软件简介+源码(蜗牛股票软件)
+https://blog.csdn.net/woniu211111/article/details/77097047
+
 # WnStock
 WnStock是个开源的查看股票行情软件，使用VC++/MFC开发，IDE选用Visual Studio 2010，如IDE版本非2010可能会存在编译错误。
 
